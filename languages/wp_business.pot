@@ -1,0 +1,526 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CorporateWP\n"
+"Report-Msgid-Bugs-To: http://techmantra.com\n"
+"POT-Creation-Date: 2014-02-26 10:53-0500\n"
+"PO-Revision-Date: 2014-02-26 10:53-0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: ../404.php:27
+msgid "Most Used Categories"
+msgstr ""
+
+#: ../404.php:44
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: ../archive.php:29
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: ../archive.php:37
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: ../archive.php:40
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: ../archive.php:43
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: ../archive.php:46 ../sidebar.php:17
+msgid "Archives"
+msgstr ""
+
+#: ../comments.php:37 ../comments.php:57
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:38 ../comments.php:58
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:39 ../comments.php:59
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:69
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: ../content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../content-page.php:16 ../content-portfolio.php:19 ../content-single.php:59
+#: ../content-team.php:16 ../page-blog.php:50 ../inc/template-tags.php:82
+#: ../inc/template-tags.php:101
+msgid "Edit"
+msgstr ""
+
+#: ../content-portfolio.php:15
+msgid "Description"
+msgstr ""
+
+#: ../content-portfolio.php:23 ../inc/custom-post-meta.php:9
+msgid "Project Details"
+msgstr ""
+
+#: ../content-portfolio.php:28 ../inc/custom-post-meta.php:27
+msgid "Client"
+msgstr ""
+
+#: ../content-portfolio.php:34 ../inc/custom-post-meta.php:23
+msgid "Year"
+msgstr ""
+
+#: ../content-portfolio.php:37 ../content-single.php:28
+#: ../content-single.php:31 ../content.php:29 ../content.php:39
+#: ../page-blog.php:31 ../page-blog.php:39
+msgid ", "
+msgstr ""
+
+#: ../content-portfolio.php:38
+msgid "Categories"
+msgstr ""
+
+#: ../content-portfolio.php:44 ../inc/custom-post-meta.php:31
+msgid "Technology"
+msgstr ""
+
+#: ../content-portfolio.php:50
+msgid "URl"
+msgstr ""
+
+#: ../content-single.php:19
+msgid "Pages:"
+msgstr ""
+
+#: ../content-single.php:36
+#, php-format
+msgid ""
+"This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+
+#: ../content-single.php:38
+#, php-format
+msgid "Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../content-single.php:44
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../content-single.php:46
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+
+#: ../content.php:16 ../section-clients.php:12 ../section-featured.php:15
+#: ../section-portfolio.php:11 ../section-portfolio.php:15
+#: ../section-team.php:11 ../section-team.php:15
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../content.php:43 ../page-blog.php:42
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: ../footer.php:44
+msgid "Proudly powered by "
+msgstr ""
+
+#: ../footer.php:45
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: ../functions.php:58
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:59
+msgid "Footer Menu"
+msgstr ""
+
+#: ../functions.php:76
+msgid "Footer 1"
+msgstr ""
+
+#: ../functions.php:84
+msgid "Footer 2"
+msgstr ""
+
+#: ../functions.php:92
+msgid "Footer 3"
+msgstr ""
+
+#: ../functions.php:100
+msgid "Sidebar"
+msgstr ""
+
+#: ../header.php:42
+msgid "Menu"
+msgstr ""
+
+#: ../header.php:44
+msgid "Skip to content"
+msgstr ""
+
+#: ../home.php:92
+msgid "Our Portfolio"
+msgstr ""
+
+#: ../home.php:125
+msgid "Meet Our Team"
+msgstr ""
+
+#: ../home.php:153
+msgid "Our Clients"
+msgstr ""
+
+#: ../page-blog.php:34
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: ../page-blog.php:47
+msgid "Leave a comment"
+msgstr ""
+
+#: ../page-blog.php:47
+msgid "1 Comment"
+msgstr ""
+
+#: ../page-blog.php:47
+msgid "% Comments"
+msgstr ""
+
+#: ../search.php:15
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../sidebar.php:24
+msgid "Meta"
+msgstr ""
+
+#: ../theme-options.php:11 ../theme-options.php:15
+msgid "General"
+msgstr ""
+
+#: ../theme-options.php:25 ../theme-options.php:29
+msgid "Colors"
+msgstr ""
+
+#: ../theme-options.php:39 ../theme-options.php:43
+msgid "Slideshow"
+msgstr ""
+
+#: ../theme-options.php:57
+msgid "Callout"
+msgstr ""
+
+#: ../theme-options.php:62 ../theme-options.php:248
+msgid "Featured"
+msgstr ""
+
+#: ../theme-options.php:67
+msgid "Staggered"
+msgstr ""
+
+#: ../theme-options.php:72 ../theme-options.php:272
+msgid "Portfolio"
+msgstr ""
+
+#: ../theme-options.php:77 ../theme-options.php:284
+msgid "Team"
+msgstr ""
+
+#: ../theme-options.php:82 ../theme-options.php:296
+msgid "Clients"
+msgstr ""
+
+#: ../theme-options.php:99
+msgid "Sortable Sections"
+msgstr ""
+
+#: ../theme-options.php:117
+msgid "Homepage"
+msgstr ""
+
+#: ../theme-options.php:130
+msgid "Favicon"
+msgstr ""
+
+#: ../theme-options.php:131
+msgid "Use a transparent png or ico image"
+msgstr ""
+
+#: ../theme-options.php:141
+msgid "Headline Font"
+msgstr ""
+
+#: ../theme-options.php:142 ../theme-options.php:154
+msgid "<a href=\""
+msgstr ""
+
+#: ../theme-options.php:153
+msgid "Body Font"
+msgstr ""
+
+#: ../theme-options.php:165
+msgid "Blog Category"
+msgstr ""
+
+#: ../theme-options.php:166
+msgid "Select your blog category"
+msgstr ""
+
+#: ../theme-options.php:177
+msgid "Custom CSS"
+msgstr ""
+
+#: ../theme-options.php:178
+msgid "Add some custom CSS to your theme."
+msgstr ""
+
+#: ../theme-options.php:189
+msgid "Images"
+msgstr ""
+
+#: ../theme-options.php:190
+msgid "Select or create a gallery of images to use in the homepage slide show."
+msgstr ""
+
+#: ../theme-options.php:201
+msgid "Stores the order of the sections"
+msgstr ""
+
+#: ../theme-options.php:212
+msgid "Callout Text"
+msgstr ""
+
+#: ../theme-options.php:213
+msgid "Add text for your homepage callout"
+msgstr ""
+
+#: ../theme-options.php:224
+msgid "Link Text"
+msgstr ""
+
+#: ../theme-options.php:225 ../theme-options.php:237
+msgid "Add an optional link for the callout"
+msgstr ""
+
+#: ../theme-options.php:236
+msgid "Link"
+msgstr ""
+
+#: ../theme-options.php:249
+msgid "Select your feature category"
+msgstr ""
+
+#: ../theme-options.php:260
+msgid "Staggered List"
+msgstr ""
+
+#: ../theme-options.php:261
+msgid "Select your list category"
+msgstr ""
+
+#: ../theme-options.php:273
+msgid "Select your portfolio category"
+msgstr ""
+
+#: ../theme-options.php:285
+msgid "Select your team category"
+msgstr ""
+
+#: ../theme-options.php:297
+msgid "Select your client category"
+msgstr ""
+
+#: ../inc/custom-post-meta.php:35 ../options/options.php:698
+msgid "URL"
+msgstr ""
+
+#: ../inc/custom-post-meta.php:81
+msgid "Team Details"
+msgstr ""
+
+#: ../inc/custom-post-meta.php:95
+msgid "Position"
+msgstr ""
+
+#: ../inc/custom-post-meta.php:99
+msgid "Facebook"
+msgstr ""
+
+#: ../inc/custom-post-meta.php:103
+msgid "Twitter"
+msgstr ""
+
+#: ../inc/custom-post-meta.php:107
+msgid "GitHub"
+msgstr ""
+
+#: ../inc/custom-widgets.php:52
+msgid "Description:"
+msgstr ""
+
+#: ../inc/custom-widgets.php:57
+msgid "Link:"
+msgstr ""
+
+#: ../inc/extras.php:82
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../inc/extras.php:94
+msgid "Button Title"
+msgstr ""
+
+#: ../inc/template-tags.php:24
+msgid "Posts navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:28
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../inc/template-tags.php:32
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:57
+msgid "Post navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:82
+msgid "Pingback:"
+msgstr ""
+
+#: ../inc/template-tags.php:92
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:105
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../inc/template-tags.php:146
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+
+#: ../options/options.php:128 ../options/options.php:131
+#: ../options/library/theme-customizer.php:49
+msgid "Theme Options"
+msgstr ""
+
+#: ../options/options.php:166
+msgid " settings updated successfully."
+msgstr ""
+
+#: ../options/options.php:177
+msgid "Save Settings"
+msgstr ""
+
+#: ../options/options.php:178
+msgid "Reset Defaults"
+msgstr ""
+
+#: ../options/options.php:371 ../options/options.php:391
+#: ../options/options.php:410
+msgid ""
+"This option has no valid options. Please create valid options as an array "
+"inside the tm Framework."
+msgstr ""
+
+#: ../options/options.php:493
+msgid "Upload or Select Image"
+msgstr ""
+
+#: ../options/options.php:494 ../options/options.php:589
+msgid "Remove"
+msgstr ""
+
+#: ../options/options.php:588
+msgid "Upload or Select Images"
+msgstr ""
+
+#: ../options/options.php:684
+msgid "Version: "
+msgstr ""
+
+#: ../options/options.php:685
+msgid "Support"
+msgstr ""
+
+#: ../options/options.php:686
+msgid "Theme Instructions"
+msgstr ""
+
+#: ../options/options.php:686
+msgid "Instructions"
+msgstr ""
+
+#: ../options/library/helpers.php:15
+msgid "-- Choose One --"
+msgstr ""

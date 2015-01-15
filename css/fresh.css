@@ -1,0 +1,41 @@
+.site-header {
+    background: #59C6E3;
+}
+.main-navigation a {
+    background: #2ba6bd;
+}
+.main-navigation a:hover,
+.main-navigation li:hover > a {
+    background-color: #0d849a;
+}
+.home section#portfolio {
+    background: #38B4B4;
+}
+.home section#portfolio .section-title,
+.home section#portfolio .entry-title a {
+    color: #fff;
+}
+.home section#portfolio .entry-title a:hover {
+    opacity:0.8;
+}
+.home section#featured {
+    background: #e7fbff;
+}
+.home section#team {
+    background: #f7f7f7;
+}
+#toggle-navigation {
+    background: #2ba6bd;
+}
+.home section#list {
+    padding: 80px 0;
+}
+.menu-toggle {
+    background: #2ba6bd;
+    opacity: 0.8;
+    color: rgba(255,255,255,0.8);
+}
+.main-navigation.toggled .menu-toggle, .menu-toggle:hover, .main-navigation.toggled a {
+    opacity: 1;
+    background: #2ba6bd;
+}
